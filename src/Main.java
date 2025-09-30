@@ -24,5 +24,4 @@ public class Main {
         System.out.println(b.makeAppointment(2,4,22));
         b.printPeriod(4);
     }
-
 }
